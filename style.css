@@ -38,6 +38,7 @@ body {
   height: 100%;
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
+  border-radius: 25px;
 }
 
 .face {
